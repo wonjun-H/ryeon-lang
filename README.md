@@ -91,3 +91,7 @@ Ryeon 언어는 특정 한국어 구문을 명령어로 사용합니다. 아래�
 ```
 
 이 코드를 실행하면 "Hello, World!"가 출력됩니다.
+
+## 참고문헌
+- [브레인퍽 나무위키](https://namu.wiki/w/%EB%B8%8C%EB%A0%88%EC%9D%B8%ED%8D%BD#s-4.2)
+- [난해한 프로그래밍 언어 만들어보기](https://kciter.so/posts/crafting-esolang/)
